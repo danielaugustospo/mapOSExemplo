@@ -1,5 +1,8 @@
 /vendor/
 node_modules/
+
+/arquivosZip/
+/mftp/
 npm-debug.log
 yarn-error.log
 
